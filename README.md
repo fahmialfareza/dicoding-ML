@@ -1,2 +1,2 @@
-# dicoding-ML
-Belajar Machine Learning Dasar Dicoding
+# Machine Learning Fundamentals
+Learns Machine Learning Fundamentals
